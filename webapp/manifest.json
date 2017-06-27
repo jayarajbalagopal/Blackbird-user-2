@@ -1,0 +1,150 @@
+{
+	"_version": "1.5.0",
+	"sap.app": {
+		"id": "bbuserBlackbird_user_v1",
+		"type": "application",
+		"i18n": "i18n/i18n.properties",
+		"applicationVersion": {
+			"version": "1.0.0"
+		},
+		"title": "{{appTitle}}",
+		"description": "{{appDescription}}",
+		"sourceTemplate": {
+			"id": "ui5template.basicSAPUI5ApplicationProject",
+			"version": "1.40.12"
+		}
+	},
+
+	"sap.ui": {
+		"technology": "UI5",
+		"icons": {
+			"icon": "",
+			"favIcon": "",
+			"phone": "",
+			"phone@2": "",
+			"tablet": "",
+			"tablet@2": ""
+		},
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		},
+		"supportedThemes": [
+			"sap_hcb",
+			"sap_belize",
+			"sap_goldreflection"
+
+		]
+	},
+
+	"sap.ui5": {
+		"rootView": {
+			"viewName": "bbuserBlackbird_user_v1.view.Home",
+			"type": "XML"
+		},
+		"dependencies": {
+			"minUI5Version": "1.30.0",
+			"libs": {
+				"sap.ui.core": {},
+				"sap.m": {},
+				"sap.ui.layout": {},
+				"sap.ushell": {},
+				"sap.collaboration": {},
+				"sap.ui.comp": {},
+				"sap.uxap": {}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		},
+		"models": {
+			"i18n": {
+				"type": "sap.ui.model.resource.ResourceModel",
+				"settings": {
+					"bundleName": "bbuserBlackbird_user_v1.i18n.i18n"
+				}
+			},
+			"details": {
+				"type": "sap.ui.model.json.JSONModel",
+				"uri": "Details.json"
+			}
+		},
+		"routing": {
+			"config": {
+				"routerClass": "sap.m.routing.Router",
+				"viewType": "XML",
+				"viewPath": "bbuserBlackbird_user_v1.view",
+				"controlId": "app",
+				"controlAggregation": "pages"
+			},
+			"routes": [
+
+				{
+					"pattern": "Edashboard",
+					"name": "Edashboard",
+					"target": "Edashboard"
+				}, {
+					"pattern": "Tdashboard",
+					"name": "Tdashboard",
+					"target": "Tdashboard"
+				},
+
+				{
+					"pattern": "Home",
+					"name": "Home",
+					"target": "Home"
+				}, {
+					"pattern": "energy",
+					"name": "energy",
+					"target": "energy"
+				}, {
+					"pattern": "zip",
+					"name": "zip",
+					"target": "zip"
+				}, {
+					"pattern": "mobile",
+					"name": "mobile",
+					"target": "mobile"
+				}
+
+			],
+			"targets": {
+
+				"Edashboard": {
+					"viewName": "EDashboard"
+				},
+				"Home": {
+					"viewName": "Home"
+				},
+
+				"Tdashboard": {
+					"viewName": "TDashboard"
+				},
+				"energy": {
+					"viewName": "Energy"
+				},
+
+				"tableview": {
+					"viewName": "eStockTable"
+				},
+				"graphview": {
+					"viewName": "eStockmarket"
+				},
+				"zip": {
+					"viewName": "Zipcode"
+				},
+				"mobile": {
+					"viewName": "Mdashboard"
+				}
+			}
+		},
+
+		"resources": {
+			"css": [{
+				"uri": "css/style.css"
+			}]
+		}
+	}
+}

@@ -1,0 +1,4252 @@
+{
+	"Details":[
+  {
+    "Name": "Samsung Galaxy On5 (Gold, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Li-Ion Battery",
+    "Price": 6690
+  },
+  {
+    "Name": "Yu Yureka Black (Chrome Black, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Polymer Battery",
+    "Price": 8999
+  },
+  {
+    "Name": "Samsung Galaxy On Nxt (Gold, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 14900
+  },
+  {
+    "Name": "Samsung Galaxy On7 (Gold, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 7690
+  },
+  {
+    "Name": "Redmi Note 4 (Black, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4100 mAh Li-Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Redmi Note 4 (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4100 mAh Li-Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Samsung Galaxy On8 (White, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 11990
+  },
+  {
+    "Name": "Lenovo K6 Power (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Panasonic Eluga Ray X (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Polymer Battery",
+    "Price": 8999
+  },
+  {
+    "Name": "Samsung Galaxy On5 (Black, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Li-Ion Battery",
+    "Price": 6690
+  },
+  {
+    "Name": "Samsung Galaxy On8 (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 12490
+  },
+  {
+    "Name": "Lenovo Vibe K5 Plus 3 GB (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Lenovo Vibe K5 Plus 3 GB (Silver, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Lenovo Vibe K5 Plus 3 GB (Dark Grey, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Samsung Galaxy On Nxt (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 13900
+  },
+  {
+    "Name": "Panasonic P85 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Li-ion Polymer Battery",
+    "Price": 6499
+  },
+  {
+    "Name": "Micromax Canvas Spark 3 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 3999
+  },
+  {
+    "Name": "Intex Aqua 5.5 VR (Champagne, White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2800 mAh Li-Ion Battery",
+    "Price": 4888
+  },
+  {
+    "Name": "Samsung Galaxy J5 - 6 (New 2016 Edition) (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3100 mAh Li-Ion Battery",
+    "Price": 9990
+  },
+  {
+    "Name": "Samsung Galaxy J5 - 6 (New 2016 Edition) (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3100 mAh Li-Ion Battery",
+    "Price": 9990
+  },
+  {
+    "Name": "Asus Zenfone Max (Black, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Apple iPhone SE (Space Grey, 32 GB)",
+    "Ram": "N/A",
+    "Display": "4 inch Retina Display",
+    "Camera": "12MP Rear Camera | 1.2MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 21999
+  },
+  {
+    "Name": "Intex Aqua Crystal Plus (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2100 mAh Li-Polymer Battery",
+    "Price": 5599
+  },
+  {
+    "Name": "LeEco Le Max2 (Rose Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 8MP Front Camera",
+    "Battery": "3100 mAh Li-Ion Polymer Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "Lenovo Vibe K5 Note (Silver, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Li-Ion Polymer Battery",
+    "Price": 12999
+  },
+  {
+    "Name": "Moto M (Silver, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 15999
+  },
+  {
+    "Name": "Moto M (Gold, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 15999
+  },
+  {
+    "Name": "Asus Zenfone Selfie (Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 13MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Moto X Play (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3630 mAh Li-Ion Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "Samsung Galaxy On8 (Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 12490
+  },
+  {
+    "Name": "Panasonic Eluga Ray (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Lenovo K6 Power (Grey / Dark Grey, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Micromax Evok Power (Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-Ion Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "XOLO ERA 2-4G with VoLTE (Pyramid Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Ion Battery",
+    "Price": 4444
+  },
+  {
+    "Name": "XOLO ERA 2-4G with VoLTE (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Ion Battery",
+    "Price": 4444
+  },
+  {
+    "Name": "Yu Yunicorn (Rush Silver, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Yu Yunicorn (Gold Rush, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Micromax Bolt Supreme 4 (Silver, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Lithium Battery",
+    "Price": 3499
+  },
+  {
+    "Name": "Moto M (Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Moto M (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Asus Zenfone Selfie (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 13MP Front Camera",
+    "Battery": "3000 mAh Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "XOLO ERA 1X -4G with VoLTE (Black and Gun Metal, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 4888
+  },
+  {
+    "Name": "Panasonic Eluga Ray (Space Grey, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Lenovo Phab 2 (Champagne Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6.4 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4050 mAh Li-Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Lenovo Phab 2 (Gunmetal Gray, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6.4 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4050 mAh Li-Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "XOLO ERA 1X -4G with VoLTE (Chocolate Brown, Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 4888
+  },
+  {
+    "Name": "XOLO ERA 2X with Finger Print Sensor (Black and Gun, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 6777
+  },
+  {
+    "Name": "Samsung Galaxy J3 Pro (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 7990
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Space Grey, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Space Grey, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 10499
+  },
+  {
+    "Name": "Panasonic Eluga Ray (Rose Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-ion Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "XOLO Era 2X (3GB) (Latte Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 6777
+  },
+  {
+    "Name": "HTC Desire 820G+ (Santorini White, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 6990
+  },
+  {
+    "Name": "Micromax Canvas 6 (Champagne, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 8999
+  },
+  {
+    "Name": "Moto G Turbo Edition (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2470 mAh Li-Ion Battery",
+    "Price": 9199
+  },
+  {
+    "Name": "Swipe Elite Note (Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 6998
+  },
+  {
+    "Name": "Sansui Horizon 1 (Black/White, 8 GB) 4G-VoLTE",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3899
+  },
+  {
+    "Name": "Sansui Horizon 1 (Black/Golden, 8 GB) 4G-VoLTE",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3899
+  },
+  {
+    "Name": "Lenovo P2 (GREY / GRAPHITE GREY, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5100 mAh Battery",
+    "Price": 16999
+  },
+  {
+    "Name": "Lenovo P2 (Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5100 mAh Battery",
+    "Price": 16999
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Space Grey, 32 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 40999
+  },
+  {
+    "Name": "Micromax Evok Note (Champagne, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-Ion Polymer Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Asus Zenfone Selfie (Silver, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 13MP Front Camera",
+    "Battery": "3000 mAh Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Rose Gold, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "LeEco Le 2 (Rose Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 11499
+  },
+  {
+    "Name": "LeEco Le 2 (Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 11499
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Rose Gold, 32 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 40999
+  },
+  {
+    "Name": "Lenovo A6600 Plus (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Li-Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Lenovo Vibe K5 Note (Silver, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Li-Ion Polymer Battery",
+    "Price": 11499
+  },
+  {
+    "Name": "XOLO Era 2X (2GB) (Latte Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 6222
+  },
+  {
+    "Name": "Swipe Elite Sense - 4G with VoLTE",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Swipe Elite Sense - 4G with VoLTE",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Lenovo P2 (Grey/Graphite Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5100 mAh Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "Lenovo P2 (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5100 mAh Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Rose Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 10499
+  },
+  {
+    "Name": "Nokia 216",
+    "Ram": "Black",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1020 mAh Battery",
+    "Price": 2595
+  },
+  {
+    "Name": "Samsung Galaxy J2 (Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch quarter HD Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 7350
+  },
+  {
+    "Name": "Lava KKT 28i",
+    "Ram": "Black",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1800 mAh Li-Ion Battery",
+    "Price": 1359
+  },
+  {
+    "Name": "Coolpad Note 5 Lite (Grey / Space Grey, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 8549
+  },
+  {
+    "Name": "Samsung Galaxy C9 Pro (Gold, 64 GB)",
+    "Ram": "6GBRAM",
+    "Display": "6 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP Front Camera",
+    "Battery": "4000 mAh Li-Ion Battery",
+    "Price": 31900
+  },
+  {
+    "Name": "LYF Water F1 (Black, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3200 mAh Battery",
+    "Price": 8324
+  },
+  {
+    "Name": "Swipe Elite 3 - 4G with VoLTE",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 4999
+  },
+  {
+    "Name": "Swipe Elite 3 - 4G with VoLTE",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 4999
+  },
+  {
+    "Name": "Samsung C3010",
+    "Ram": "128MBRAM",
+    "Display": "Display",
+    "Camera": "1.3MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "Battery",
+    "Price": 3280
+  },
+  {
+    "Name": "Spice Fire One Mi-FX1 (White, 256 MB)",
+    "Ram": "1GBRAM",
+    "Display": "3.5 inch HVGA Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "1400 mAh Battery",
+    "Price": 1919
+  },
+  {
+    "Name": "Lava Iris 504Q (Grey, 4 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "2000 mAh Li-Polymer Battery",
+    "Price": 11988
+  },
+  {
+    "Name": "Samsung Galaxy S6 Edge (White Pearl, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.1 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 47138
+  },
+  {
+    "Name": "Alcatel Scribe (Blue, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2500 mAh Li-Ion Battery",
+    "Price": 9619
+  },
+  {
+    "Name": "Nokia Lumia 630 Dual Sim (Bright Orange, 8 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1830 mAh Battery",
+    "Price": 9234
+  },
+  {
+    "Name": "Moto X Play (White, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3630 mAh Li-Ion Battery",
+    "Price": 13499
+  },
+  {
+    "Name": "LYF Water F1S (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 8279
+  },
+  {
+    "Name": "Forme N5+ Selfie with Wireless FM",
+    "Ram": "RedBlack",
+    "Display": "1.8 inch Display",
+    "Camera": "0.8MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "Sony Xperia X Dual Sim (Rose Gold, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "23MP Rear Camera | 13MP Front Camera",
+    "Battery": "2620 mAh Li-Ion Battery",
+    "Price": 22990
+  },
+  {
+    "Name": "Sony Xperia X Dual Sim (White, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "23MP Rear Camera | 13MP Front Camera",
+    "Battery": "2620 mAh Li-Ion Battery",
+    "Price": 22990
+  },
+  {
+    "Name": "Sony Xperia X Dual Sim (Lime Gold, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "23MP Rear Camera | 13MP Front Camera",
+    "Battery": "2620 mAh Li-Ion Battery",
+    "Price": 22990
+  },
+  {
+    "Name": "Forme D9 Red",
+    "Ram": "Red",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1400 mAh Li-Ion Battery",
+    "Price": 747
+  },
+  {
+    "Name": "Apple iPhone 4s (White, 8 GB)",
+    "Ram": "N/A",
+    "Display": "3.5 inch Display",
+    "Camera": "8MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "Lithium-Ion Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "ZTE Blade A2 Plus (Grey, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "ZTE Blade A2 Plus (Golden, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "Micromax Dual 5 (Champagne, 128 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP + 13MP Dual Rear Camera | 13MP Front Camera",
+    "Battery": "3200 mAh Battery",
+    "Price": 24999
+  },
+  {
+    "Name": "Asus Padfone Mini (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "1200 mAh Lithium Battery",
+    "Price": 12999
+  },
+  {
+    "Name": "Asus Zenfone 2 Laser ZE601KL (Silver, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Swipe Elite Max (Onyx Black, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Honor 5C (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Samsung Galaxy Note 5 (Dual Sim) (Silver Titanium, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 5MP Front Camera",
+    "Battery": "15 Month for Mobile, 6 Month for Battery & Charger",
+    "Price": 35499
+  },
+  {
+    "Name": "HTC Desire 630 (Sprinkle White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 13570
+  },
+  {
+    "Name": "XOLO T1000 (Black, 4 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Li-Ion Battery",
+    "Price": 14153
+  },
+  {
+    "Name": "Swipe Elite Power- 4G with VoLTE",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Samsung Galaxy S8 (Maple Gold, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.8 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "4000 mAh Battery",
+    "Price": 57900
+  },
+  {
+    "Name": "Mi 3 (Metallic Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Samsung Galaxy A7-2017 (Black Sky, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.7 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP Front Camera",
+    "Battery": "3050 mAh Li-Ion Battery",
+    "Price": 33490
+  },
+  {
+    "Name": "Honor 8",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 8MP Front Camera",
+    "Battery": "3600 mAh Battery",
+    "Price": 29999
+  },
+  {
+    "Name": "Honor 5C (Silver, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Samsung Galaxy A5-2017 (Gold Sand, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 28990
+  },
+  {
+    "Name": "Samsung Galaxy S8 (Midnight Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.8 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "15 Month for Mobile, 6 Month for Battery & Charger",
+    "Price": 57900
+  },
+  {
+    "Name": "XOLO BLACK (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 11936
+  },
+  {
+    "Name": "LG G2 D802 (Black Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2.1MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 31971
+  },
+  {
+    "Name": "Vivo V5Plus Limited Edition (Matte Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 20MP + 8MP Dual Front Camera",
+    "Battery": "3200 mAh Li-Polymer Battery",
+    "Price": 25990
+  },
+  {
+    "Name": "Honor 6 Plus (Black, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "8MP + 8MP Dual Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh SiO+ Li-Polymer Battery",
+    "Price": 26499
+  },
+  {
+    "Name": "Micromax Canvas Nitro A311 (Blue, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3055 mAh Battery",
+    "Price": 12740
+  },
+  {
+    "Name": "Asus Zenfone 3 (White, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3600 mAh Battery",
+    "Price": 17999
+  },
+  {
+    "Name": "Asus Zenfone 3 (White, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "2650 mAh Battery",
+    "Price": 17999
+  },
+  {
+    "Name": "Micromax Vdeo 4 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Polymer Battery",
+    "Price": 6249
+  },
+  {
+    "Name": "Micromax Vdeo 4 (Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Polymer Battery",
+    "Price": 6249
+  },
+  {
+    "Name": "Apple iPhone 6s (Rose Gold, 128 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "1715 mAh Li-Ion Battery",
+    "Price": 55999
+  },
+  {
+    "Name": "LYF FLAME 7 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 3499
+  },
+  {
+    "Name": "Lenovo Vibe K5 Note (Silver, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Li-Ion Polymer Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Samsung Galaxy J2 Ace (Black, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 8900
+  },
+  {
+    "Name": "Samsung Galaxy J2 Ace (Gold, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 8900
+  },
+  {
+    "Name": "Asus Zenfone 3 Laser (Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "Samsung Galaxy A9 Pro (White, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "6 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "5000 mAh Li-Ion Battery",
+    "Price": 29900
+  },
+  {
+    "Name": "Samsung Galaxy J5 Prime (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2400 mAh Li-Ion Battery",
+    "Price": 13490
+  },
+  {
+    "Name": "LG G5 (Titan, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.3 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "2800 mAh Li-Ion Battery",
+    "Price": 40990
+  },
+  {
+    "Name": "LG G5 (Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.3 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "2800 mAh Li-Ion Battery",
+    "Price": 40990
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Rose Gold, 128 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 70000
+  },
+  {
+    "Name": "Lenovo Vibe Z2 Pro (Starry Night Black, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 29999
+  },
+  {
+    "Name": "Asus Zenfone 2 ZE551ML (Silver, 128 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 22999
+  },
+  {
+    "Name": "Micromax Canvas Unite 4 Plus (Silver, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Lenovo Z2 Plus (Black, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Li-Ion Battery",
+    "Price": 14999
+  },
+  {
+    "Name": "Micromax Canvas Unite 4 Plus (Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Lava Z25 (Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3020 mAh Battery",
+    "Price": 14990
+  },
+  {
+    "Name": "Lava Z25 (Grey, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3020 mAh Battery",
+    "Price": 14990
+  },
+  {
+    "Name": "Micromax Canvas 2 (Chrome Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "Moto Turbo (Black, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 2MP Front Camera",
+    "Battery": "3900 mAh Battery",
+    "Price": 31999
+  },
+  {
+    "Name": "Sony Xperia Z5 Premium Dual (Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch UHD 4K Display",
+    "Camera": "23MP Rear Camera | 5MP Front Camera",
+    "Battery": "3430 mAh Battery",
+    "Price": 32990
+  },
+  {
+    "Name": "LG Optimus L70 (Black, 4 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2100 mAh Li-Ion Battery",
+    "Price": 12791
+  },
+  {
+    "Name": "Micromax Canvas Unite 4 Plus (Champange, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "Nokia Lumia 625 (White, 8 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.7 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 14868
+  },
+  {
+    "Name": "Moto X (Turquoise, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "10MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 19121
+  },
+  {
+    "Name": "Moto X (Black/Walnut, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "10MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 21999
+  },
+  {
+    "Name": "Moto X (Teak, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "10MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 20792
+  },
+  {
+    "Name": "Moto X (Red, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "10MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 19121
+  },
+  {
+    "Name": "Micromax Vdeo 2 (Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "1800 mAh Li-Ion Battery",
+    "Price": 4990
+  },
+  {
+    "Name": "Sony Xperia Z5 Premium Dual (Chrome, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch UHD 4K Display",
+    "Camera": "23MP Rear Camera | 5MP Front Camera",
+    "Battery": "3430 mAh Battery",
+    "Price": 32990
+  },
+  {
+    "Name": "HTC Desire 816G (Octa Core) (Blue, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Li-Polymer Battery",
+    "Price": 16853
+  },
+  {
+    "Name": "Moto X (2nd Generation) (Black Leather, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Li-Ion Battery",
+    "Price": 16999
+  },
+  {
+    "Name": "Asus Zenfone Live (Pink, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2650 mAh Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Asus Zenfone Live (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2650 mAh Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Apple iPhone 7 Plus (Silver, 128 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 67499
+  },
+  {
+    "Name": "Apple iPhone 7 Plus (Jet Black, 128 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 67499
+  },
+  {
+    "Name": "OPPO F3 Plus (Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "6 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP + 8MP Dual Front Camera",
+    "Battery": "4000 mAh Battery",
+    "Price": 27990
+  },
+  {
+    "Name": "Samsung Galaxy S8 Plus (Midnight Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "6.2 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Battery",
+    "Price": 64900
+  },
+  {
+    "Name": "Asus Zenfone 4 (Yellow, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1750 mAh Lithium Battery",
+    "Price": 6007
+  },
+  {
+    "Name": "Samsung Galaxy A5 2016 Edition (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2900 mAh Li-Ion Battery",
+    "Price": 18900
+  },
+  {
+    "Name": "HTC Desire 816G (Octa Core) (White, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Li-Polymer Battery",
+    "Price": 16751
+  },
+  {
+    "Name": "Moto X (Black/Blue, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "10MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 19121
+  },
+  {
+    "Name": "Micromax Vdeo 2 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "1800 mAh Li-Ion Battery",
+    "Price": 4990
+  },
+  {
+    "Name": "Panasonic Eluga Ray X (Rose Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4000 mAh Polymer Battery",
+    "Price": 8999
+  },
+  {
+    "Name": "Huawei Honor 3X (White, 8 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 18315
+  },
+  {
+    "Name": "Lenovo VIBE P1 (Grey, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "4900 mAh Li-Polymer Battery",
+    "Price": 15999
+  },
+  {
+    "Name": "Samsung Galaxy J2 Pro (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 9790
+  },
+  {
+    "Name": "Asus Zenfone 5 A501CG (Gold, 8 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2110 mAh Lithium Battery",
+    "Price": 9074
+  },
+  {
+    "Name": "Lenovo Phab 2 Plus (Champagne Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6.4 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "4050 mAh Li-Ion Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Lenovo Phab 2 Plus (Gunmetal Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6.4 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "4050 mAh Li-Ion Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Smartron srt.phone (Titanium Gray, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Lithium-Ion Polymer Battery",
+    "Price": 12999
+  },
+  {
+    "Name": "Smartron srt.phone (Titanium Gray, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Lithium-Ion Polymer Battery",
+    "Price": 13999
+  },
+  {
+    "Name": "Lava A97 4G with VoLTE (Black Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Ion Battery",
+    "Price": 5269
+  },
+  {
+    "Name": "Moto X Force (Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.4 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3760 mAh Lithium-ion Battery",
+    "Price": 19999
+  },
+  {
+    "Name": "Gionee Marathon M5 Plus (Champagne Gold, 64 GB)",
+    "Ram": "3GBRAM",
+    "Display": "6 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "5020 mAh Li-Ion Polymer Battery",
+    "Price": 26999
+  },
+  {
+    "Name": "Honor Holly 3 (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Samsung Galaxy J1 (4G) (Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch Display",
+    "Camera": "5.0MP Rear Camera",
+    "Battery": "2050 mAh Battery",
+    "Price": 6890
+  },
+  {
+    "Name": "Mi 4i (Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3030 mAh Li-ion Polymer Battery",
+    "Price": 11999
+  },
+  {
+    "Name": "Swipe Elite Star - 4G VoLTE(Gold,8GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3499
+  },
+  {
+    "Name": "Asus Zenfone Live (Navy Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2650 mAh Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Samsung Galaxy A5-2017 (Black Sky, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 28990
+  },
+  {
+    "Name": "Samsung Galaxy A5 2016 Edition (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2900 mAh Li-Ion Battery",
+    "Price": 18900
+  },
+  {
+    "Name": "Samsung Galaxy A7-2017 (Gold Sand, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.7 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 16MP Front Camera",
+    "Battery": "3600 mAh Battery",
+    "Price": 33490
+  },
+  {
+    "Name": "Samsung Galaxy A7 2016 Edition (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3300 mAh Li-Ion Battery",
+    "Price": 27900
+  },
+  {
+    "Name": "Lava Z10 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2620 mAh Battery",
+    "Price": 9990
+  },
+  {
+    "Name": "Lava Z10 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2620 mAh Battery",
+    "Price": 9990
+  },
+  {
+    "Name": "Honor Holly 3 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Moto X Force (White, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.4 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3760 mAh Lithium-ion Battery",
+    "Price": 19999
+  },
+  {
+    "Name": "Apple iPhone SE (Space Grey, 16 GB)",
+    "Ram": "N/A",
+    "Display": "4 inch Retina Display",
+    "Camera": "12MP Rear Camera | 1.2MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 20999
+  },
+  {
+    "Name": "Apple iPhone 7 (Silver, 256 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 67999
+  },
+  {
+    "Name": "LYF Earth 1 (White, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3500 mAh Li-Ion Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Samsung Galaxy J5 (White, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 11390
+  },
+  {
+    "Name": "Asus Zenfone Zoom (White, 128 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 24999
+  },
+  {
+    "Name": "Apple iPhone SE (Silver, 32 GB)",
+    "Ram": "N/A",
+    "Display": "4 inch Retina Display",
+    "Camera": "12MP Rear Camera | 1.2MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 21999
+  },
+  {
+    "Name": "Apple iPhone 7 (Jet Black, 256 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 67999
+  },
+  {
+    "Name": "Samsung Galaxy J2 Ace (Silver, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 8900
+  },
+  {
+    "Name": "Samsung Galaxy S8 Plus (Coral Blue, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "6.2 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Battery",
+    "Price": 64900
+  },
+  {
+    "Name": "Samsung Galaxy S8 Plus (Midnight Black, 128 GB)",
+    "Ram": "6GBRAM",
+    "Display": "6.2 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Battery",
+    "Price": 74900
+  },
+  {
+    "Name": "Huawei P9 (Titanium Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 39999
+  },
+  {
+    "Name": "Nexian NV-45 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "1650 mAh Li-Ion Battery",
+    "Price": 3799
+  },
+  {
+    "Name": "Lenovo A5000 (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Lenovo S930 (Silver, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "6 inch HD Display",
+    "Camera": "8MP Rear Camera | 1.6MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 13604
+  },
+  {
+    "Name": "Lenovo A5000 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 9999
+  },
+  {
+    "Name": "Micromax Vdeo 3 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 5749
+  },
+  {
+    "Name": "Micromax Vdeo 3 (Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 5749
+  },
+  {
+    "Name": "Moto Z with Style Mod (White, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Quad HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 39999
+  },
+  {
+    "Name": "Intex Aqua Q7 N (White, 8 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4190
+  },
+  {
+    "Name": "Moto Z with Style Mod (Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Quad HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 39999
+  },
+  {
+    "Name": "Swipe Elite Star - 4G VoLTE(White,16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3799
+  },
+  {
+    "Name": "Sony Xperia XZs (Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "19MP Rear Camera | 13MP Front Camera",
+    "Battery": "2900 mAh Battery",
+    "Price": 47990
+  },
+  {
+    "Name": "Samsung Galaxy S5 (Shimmery White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.1 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 2MP Front Camera",
+    "Battery": "2800 mAh Li-Ion Battery",
+    "Price": 16999
+  },
+  {
+    "Name": "Samsung Galaxy A5 2016 Edition (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2900 mAh Li-Ion Battery",
+    "Price": 18900
+  },
+  {
+    "Name": "Moto X (2nd Generation) (Black, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Li-Ion Battery",
+    "Price": 17999
+  },
+  {
+    "Name": "Swipe Elite Star - 4G VoLTE(Black,16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3799
+  },
+  {
+    "Name": "LG L 80 Dual (White, 4 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2540 mAh Battery",
+    "Price": 14162
+  },
+  {
+    "Name": "Moto G (3rd Generation) (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2470 mAh Battery",
+    "Price": 10999
+  },
+  {
+    "Name": "Moto X (2nd Generation) (Blue, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Li-Ion Battery",
+    "Price": 17999
+  },
+  {
+    "Name": "Samsung Galaxy J1 (4G) (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2050 mAh Battery",
+    "Price": 6890
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Silver, 32 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 40999
+  },
+  {
+    "Name": "Apple iPhone 7 (Rose Gold, 256 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 67999
+  },
+  {
+    "Name": "Apple iPhone 7 Plus (Silver, 256 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 79999
+  },
+  {
+    "Name": "Apple iPhone 7 Plus (Gold, 32 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 58999
+  },
+  {
+    "Name": "Apple iPhone 7 (Silver, 32 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 7MP Front Camera",
+    "Battery": "Li-Ion Battery",
+    "Price": 45999
+  },
+  {
+    "Name": "Moto X Style (White and Champagne, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 26999
+  },
+  {
+    "Name": "Moto X Style (Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "21MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 26999
+  },
+  {
+    "Name": "Samsung Galaxy S8 Plus (Maple Gold, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "6.2 inch Quad HD+ Display",
+    "Camera": "12MP Rear Camera | 8MP Front Camera",
+    "Battery": "3500 mAh Battery",
+    "Price": 64900
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Gold, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 10499
+  },
+  {
+    "Name": "Panasonic Eluga Ray Max (Gold, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "16MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Polymer Battery",
+    "Price": 12499
+  },
+  {
+    "Name": "Lenovo A6600 Plus (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Li-Polymer Battery",
+    "Price": 6299
+  },
+  {
+    "Name": "HTC Desire 10 Pro (Stone Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "20MP Rear Camera | 13MP Front Camera",
+    "Battery": "3000 mAh Li-Ion Battery",
+    "Price": 21590
+  },
+  {
+    "Name": "Ziox Thunder Hero",
+    "Ram": "White",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 1249
+  },
+  {
+    "Name": "Ziox ZX180",
+    "Ram": "BlackSilver",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 799
+  },
+  {
+    "Name": "IKall K55",
+    "Ram": "Blue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 599
+  },
+  {
+    "Name": "Zen Cinemax Click (Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2700 mAh Battery",
+    "Price": 5999
+  },
+  {
+    "Name": "Seniorworld easyfone",
+    "Ram": "White",
+    "Display": "2.2 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "700 mAh Battery",
+    "Price": 3375
+  },
+  {
+    "Name": "Kara Daksh",
+    "Ram": "BlackBlue",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "Lava KKT Uno+",
+    "Ram": "WhiteSilver",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1700 mAh Li-Ion Battery",
+    "Price": 1399
+  },
+  {
+    "Name": "Ismart IS-201-Plus",
+    "Ram": "WhiteCoffee",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 1049
+  },
+  {
+    "Name": "Kara K-12",
+    "Ram": "White",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1319
+  },
+  {
+    "Name": "Kara K-12",
+    "Ram": "Black",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1319
+  },
+  {
+    "Name": "Kara K-5",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 689
+  },
+  {
+    "Name": "Kara Daksh",
+    "Ram": "BlackOrange",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 709
+  },
+  {
+    "Name": "Ismart IS-100-Pro",
+    "Ram": "Black",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 729
+  },
+  {
+    "Name": "Ismart IS-102",
+    "Ram": "GreenBlack",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 730
+  },
+  {
+    "Name": "Kara K-10",
+    "Ram": "YellowBlackYellow",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 899
+  },
+  {
+    "Name": "Ismart IS-102",
+    "Ram": "BlackYellow",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 730
+  },
+  {
+    "Name": "Ismart IS-201-Plus",
+    "Ram": "BlueYellow",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 1049
+  },
+  {
+    "Name": "Ismart IS-201-Plus",
+    "Ram": "GreyOrange",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 1049
+  },
+  {
+    "Name": "Kara K-3",
+    "Ram": "BlackOrange",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "Ismart IS-102",
+    "Ram": "BlueBlueBlack",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 730
+  },
+  {
+    "Name": "Lava KKT Uno+",
+    "Ram": "BlackGold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1700 mAh Li-Ion Battery",
+    "Price": 1399
+  },
+  {
+    "Name": "IKall K55",
+    "Ram": "Orange",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 599
+  },
+  {
+    "Name": "Ziox Zelfie",
+    "Ram": "BlackGrey",
+    "Display": "2.4 inch Display",
+    "Camera": "0.8MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1139
+  },
+  {
+    "Name": "Lava ARC Selfie",
+    "Ram": "WhiteandGold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1179
+  },
+  {
+    "Name": "Lava ARC Selfie",
+    "Ram": "BlackandRed",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1179
+  },
+  {
+    "Name": "Lava Captain N1",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 859
+  },
+  {
+    "Name": "Lava Spark One",
+    "Ram": "BlackGold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 1429
+  },
+  {
+    "Name": "IKall K55",
+    "Ram": "Red",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 599
+  },
+  {
+    "Name": "Karbonn Titanium S205 (White & Golden, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 4490
+  },
+  {
+    "Name": "Lava Captain N1",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 859
+  },
+  {
+    "Name": "Intex Boss",
+    "Ram": "BlackGrey",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 1221
+  },
+  {
+    "Name": "Lava P7+ (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 4399
+  },
+  {
+    "Name": "Lava A71 (Royal blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 5849
+  },
+  {
+    "Name": "Karbonn Titanium Moghul (Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch quarter HD Display",
+    "Camera": "8MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4299
+  },
+  {
+    "Name": "ZOPO Color F1 (White, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 4999
+  },
+  {
+    "Name": "Micromax Canvas Selfie A255 (Blue, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "13MP Rear Camera | 13MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 5849
+  },
+  {
+    "Name": "Lava P7+ (White Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 4399
+  },
+  {
+    "Name": "Swipe Konnect Star (Gold, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 3799
+  },
+  {
+    "Name": "Lava Spark i7",
+    "Ram": "WhiteGold",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Li-Ion Battery",
+    "Price": 1475
+  },
+  {
+    "Name": "ZOPO Color F1 (Gold, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 4999
+  },
+  {
+    "Name": "HTC One Me Dual Sim(Gsm+Gsm) (Meteor Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.2 inch HD Display",
+    "Camera": "20MP Rear Camera",
+    "Battery": "2840 mAh Battery",
+    "Price": 32440
+  },
+  {
+    "Name": "LG K7 (Titan, 8 GB)",
+    "Ram": "15GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2125 mAh Li-Ion Battery",
+    "Price": 7849
+  },
+  {
+    "Name": "Gionee P5W (Black, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 5090
+  },
+  {
+    "Name": "Gionee P5L (Black, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2300 mAh Li-Ion Polymer Battery",
+    "Price": 7249
+  },
+  {
+    "Name": "HTC Desire 628 (Sunset Blue, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 11390
+  },
+  {
+    "Name": "Karbonn K9 Smart 4G (Black Sandstone, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 4599
+  },
+  {
+    "Name": "Lava KKT TRIO X",
+    "Ram": "Black",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 1059
+  },
+  {
+    "Name": "Intex Lions G1",
+    "Ram": "BlackandBlue",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1450 mAh Li-Ion Battery",
+    "Price": 1183
+  },
+  {
+    "Name": "Panasonic T50 (Champagne Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1600 mAh Battery",
+    "Price": 4249
+  },
+  {
+    "Name": "Lava KKT 40 Power Plus",
+    "Ram": "BlackBlue",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 1599
+  },
+  {
+    "Name": "Panasonic Eluga Prim (Gun Metal Silver, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 8590
+  },
+  {
+    "Name": "Gionee P5L (Gold, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2300 mAh Li-Ion Polymer Battery",
+    "Price": 7049
+  },
+  {
+    "Name": "Kara Sports",
+    "Ram": "BlackRed",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 697
+  },
+  {
+    "Name": "BlackZone Uni",
+    "Ram": "LimeGreenMoonlightGreen",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 617
+  },
+  {
+    "Name": "Kara K7",
+    "Ram": "BlackSilver",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 749
+  },
+  {
+    "Name": "Darago 250 Diva Flip",
+    "Ram": "AquaGreen",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 1629
+  },
+  {
+    "Name": "BlackZone Hammer",
+    "Ram": "White",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 614
+  },
+  {
+    "Name": "Darago 250 Diva Flip",
+    "Ram": "Black",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 1629
+  },
+  {
+    "Name": "Kara Sports",
+    "Ram": "Green",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 694
+  },
+  {
+    "Name": "BlackZone Hammer",
+    "Ram": "Red",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 614
+  },
+  {
+    "Name": "Kara K13",
+    "Ram": "Blue",
+    "Display": "2.4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1099
+  },
+  {
+    "Name": "BlackZone Neo",
+    "Ram": "GreenGeenBlack",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 616
+  },
+  {
+    "Name": "BlackZone Cool",
+    "Ram": "DarkBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 619
+  },
+  {
+    "Name": "BlackZone Atom",
+    "Ram": "PinkTropicalPink",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 614
+  },
+  {
+    "Name": "Kara Sports",
+    "Ram": "Blue",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 692
+  },
+  {
+    "Name": "Kara K4",
+    "Ram": "WhiteBlack",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 709
+  },
+  {
+    "Name": "Ismart IS-206DJ",
+    "Ram": "GreyBlackDarkGreyBlack",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Ismart IS-206DJ",
+    "Ram": "SeaGreenBlackGreenBlack",
+    "Display": "2.3 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Karbonn Titanium Vista 3G (White Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 3749
+  },
+  {
+    "Name": "Micromax X408",
+    "Ram": "WhiteChampagne",
+    "Display": "1.7 inch Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1090
+  },
+  {
+    "Name": "Karbonn A6 Turbo (White, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch HD Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1500 mAh Li-Ion Battery",
+    "Price": 2990
+  },
+  {
+    "Name": "Lava X38 (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 6300
+  },
+  {
+    "Name": "Iball CR2",
+    "Ram": "BlackGold",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 790
+  },
+  {
+    "Name": "Lava X17 4G with VoLTE (Black & Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Polymer Battery",
+    "Price": 5349
+  },
+  {
+    "Name": "Lava X17 4G with VoLTE (White & Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Polymer Battery",
+    "Price": 5399
+  },
+  {
+    "Name": "Lava X17 4G with VoLTE (Black & Steel, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Polymer Battery",
+    "Price": 5349
+  },
+  {
+    "Name": "Lava X41 Plus (Gold, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 7549
+  },
+  {
+    "Name": "Lava X41 Plus (Black, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 7549
+  },
+  {
+    "Name": "Lava X17 4G with VoLTE (Champagne & Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Polymer Battery",
+    "Price": 5399
+  },
+  {
+    "Name": "Lava X81 4G with VoLTE (Space Grey, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2700 mAh Li-Ion Battery",
+    "Price": 9499
+  },
+  {
+    "Name": "Intex Aqua 4.0 4G (Black, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4 inch Display",
+    "Camera": "2MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1500 mAh Li-Ion Battery",
+    "Price": 3779
+  },
+  {
+    "Name": "Micromax canvas mega (slate grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2820 mAh Battery",
+    "Price": 4490
+  },
+  {
+    "Name": "Karbonn Titanium MachFive (White & Blue, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5.0MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 4690
+  },
+  {
+    "Name": "Lava X28 Plus (Space Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 6449
+  },
+  {
+    "Name": "Zen Admire Thrill (Black & Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 4499
+  },
+  {
+    "Name": "Lava A67 (Gold, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3599
+  },
+  {
+    "Name": "Panasonic T50 (Midnight Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1600 mAh Battery",
+    "Price": 4290
+  },
+  {
+    "Name": "Ziox Z23",
+    "Ram": "BlackBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 849
+  },
+  {
+    "Name": "Lava Arc 105",
+    "Ram": "Black",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 949
+  },
+  {
+    "Name": "Lava X28 Plus (Champagne Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 6449
+  },
+  {
+    "Name": "Lava X28 Plus (Black Coffee, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 6449
+  },
+  {
+    "Name": "Lava X38 (Dark Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "4000 mAh Li-Polymer Battery",
+    "Price": 6249
+  },
+  {
+    "Name": "Lava Arc Grand",
+    "Ram": "BlackGrey",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Li-Ion Battery",
+    "Price": 1399
+  },
+  {
+    "Name": "Forme N9+",
+    "Ram": "Red",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "950 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "HTC U Ultra (Sapphire Blue, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Display",
+    "Camera": "12MP Rear Camera | 16MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 47879
+  },
+  {
+    "Name": "Lava Iris X8 (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 3MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 6999
+  },
+  {
+    "Name": "HTC U Ultra (Brilliant Black, 64 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Display",
+    "Camera": "12MP Rear Camera | 16MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 47730
+  },
+  {
+    "Name": "HTC Desire 628 (Cobalt White, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 11390
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Space Grey, 16 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 45999
+  },
+  {
+    "Name": "Alcatel Pixi4 (Volcano Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4888
+  },
+  {
+    "Name": "ZOPO COLOR F1 (Black, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 4999
+  },
+  {
+    "Name": "HTC Desire 830 (Black Gold, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "2800 mAh Li-Ion Battery",
+    "Price": 16990
+  },
+  {
+    "Name": "Yu Yunique (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6475
+  },
+  {
+    "Name": "Edge E66",
+    "Ram": "Silver",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 1199
+  },
+  {
+    "Name": "Edge E9",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 899
+  },
+  {
+    "Name": "Micromax X770",
+    "Ram": "Blue",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 1198
+  },
+  {
+    "Name": "Ismart 206 DJ",
+    "Ram": "WhiteBlack",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Ziox Astra NXT+ (White & Black, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 2499
+  },
+  {
+    "Name": "Kara Bright",
+    "Ram": "Orange",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 694
+  },
+  {
+    "Name": "Kara Junior",
+    "Ram": "Green",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 649
+  },
+  {
+    "Name": "IKall K18",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 599
+  },
+  {
+    "Name": "Kara K9",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 919
+  },
+  {
+    "Name": "Kara Bright",
+    "Ram": "Green",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 697
+  },
+  {
+    "Name": "Darago 3310",
+    "Ram": "Black",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 819
+  },
+  {
+    "Name": "Kara K-6",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 689
+  },
+  {
+    "Name": "Kara K-10",
+    "Ram": "Coffee",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 899
+  },
+  {
+    "Name": "Kara Bright",
+    "Ram": "Black",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 693
+  },
+  {
+    "Name": "Ismart IS-210",
+    "Ram": "WhiteGold",
+    "Display": "2.4 inch NA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 1380
+  },
+  {
+    "Name": "Ismart IS-207 Klick",
+    "Ram": "GreyBlack",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.08MP Rear Camera | 0.08MP Front Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Ismart IS-204-Flip",
+    "Ram": "WhiteGold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.08MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 1440
+  },
+  {
+    "Name": "Ismart IS-207 Klick",
+    "Ram": "BlueBlack",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.08MP Rear Camera | 0.08MP Front Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Panasonic P71 (2GB RAM) (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6849
+  },
+  {
+    "Name": "BlackZone Genius",
+    "Ram": "SilverDarkBlueDarkBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 649
+  },
+  {
+    "Name": "Karbonn Alfa A91 Storm 3G (Black & Gun Metal, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 3189
+  },
+  {
+    "Name": "BlackZone Genius",
+    "Ram": "SilverBlackBlack",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 649
+  },
+  {
+    "Name": "Lava Captain K1 Plus",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 969
+  },
+  {
+    "Name": "Lava Metal 24",
+    "Ram": "Black",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1479
+  },
+  {
+    "Name": "Edge E66",
+    "Ram": "Coffee",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 1199
+  },
+  {
+    "Name": "Lava KKT Pearl",
+    "Ram": "ChampagneBlack",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 1299
+  },
+  {
+    "Name": "Lava Arc Grand2",
+    "Ram": "Gold",
+    "Display": "2.8 inch NA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1510
+  },
+  {
+    "Name": "Lava Metal 24",
+    "Ram": "GunMetal",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1479
+  },
+  {
+    "Name": "Lava A68 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 3399
+  },
+  {
+    "Name": "Micromax X805",
+    "Ram": "Black",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1335
+  },
+  {
+    "Name": "Lava Captain K1 Plus",
+    "Ram": "BlackBlue",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 969
+  },
+  {
+    "Name": "Ismart IS-100Pro",
+    "Ram": "BlueBlackBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 729
+  },
+  {
+    "Name": "Lava X50 Plus (Blue and Silver, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2800 mAh Li-Polymer Battery",
+    "Price": 7919
+  },
+  {
+    "Name": "Intex Aqua Raze (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 6000
+  },
+  {
+    "Name": "Micromax Canvas Nitro 4G (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 7599
+  },
+  {
+    "Name": "Zen X56",
+    "Ram": "BlackYellow",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1700 mAh Battery",
+    "Price": 1099
+  },
+  {
+    "Name": "Zen M71 Megastar",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2800 mAh Battery",
+    "Price": 1249
+  },
+  {
+    "Name": "Zen Admire Dragon (Golden, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 4849
+  },
+  {
+    "Name": "Lava A82 (White/WHITEM, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3749
+  },
+  {
+    "Name": "Lava X50 Plus (White and Gold, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2800 mAh Li-Polymer Battery",
+    "Price": 7919
+  },
+  {
+    "Name": "Lava Spark Icon X",
+    "Ram": "WhiteGold",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1150 mAh Li-Ion Battery",
+    "Price": 1510
+  },
+  {
+    "Name": "Alcatel Pixi4 (Sharp Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4444
+  },
+  {
+    "Name": "Lava Iris Atom 2 (With 2000 mAh Battery) (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3499
+  },
+  {
+    "Name": "Lava KKT Trio",
+    "Ram": "BlackRed",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2800 mAh Li-Polymer Battery",
+    "Price": 1499
+  },
+  {
+    "Name": "Lava X19 (Gold, 8 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2200 mAh Li-Ion Battery",
+    "Price": 4549
+  },
+  {
+    "Name": "Forme D8+ Camera with Flash",
+    "Ram": "TheBigRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.8MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "Lava Arc Grand2",
+    "Ram": "Coffee",
+    "Display": "2.8 inch NA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1510
+  },
+  {
+    "Name": "Forme D8+ Camera with Flash",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "0.8MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 699
+  },
+  {
+    "Name": "Lava ARC 101",
+    "Ram": "Blue",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1229
+  },
+  {
+    "Name": "Samsung Galaxy J1 (4G) (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2050 mAh Battery",
+    "Price": 6890
+  },
+  {
+    "Name": "Sony Xperia XA1 (Pink, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "23MP Rear Camera | 8MP Front Camera",
+    "Battery": "2300 mAh Battery",
+    "Price": 19469
+  },
+  {
+    "Name": "Apple iPhone SE (Space Grey, 64 GB)",
+    "Ram": "N/A",
+    "Display": "4 inch Retina Display",
+    "Camera": "12MP Rear Camera | 1.2MP Front Camera",
+    "Battery": "1440 mAh Li-Ion Battery",
+    "Price": 27490
+  },
+  {
+    "Name": "Apple iPhone SE (Rose Gold, 64 GB)",
+    "Ram": "N/A",
+    "Display": "4 inch Retina Display",
+    "Camera": "12MP Rear Camera | 1.2MP Front Camera",
+    "Battery": "1440 mAh Li-Ion Battery",
+    "Price": 27490
+  },
+  {
+    "Name": "Samsung Galaxy A3 (Champagne Gold, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch quarter HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "1900 mAh Battery",
+    "Price": 8299
+  },
+  {
+    "Name": "Rocktel W7",
+    "Ram": "Black",
+    "Display": "2.3 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 599
+  },
+  {
+    "Name": "Zen Z10 Sleek",
+    "Ram": "Red",
+    "Display": "2.9 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 1245
+  },
+  {
+    "Name": "Karbonn Alfa A112 White+Champagne (White+Champagne, 512 MB)",
+    "Ram": "256MBRAM",
+    "Display": "4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1300 mAh Battery",
+    "Price": 2699
+  },
+  {
+    "Name": "Darago 245 Flip",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 1599
+  },
+  {
+    "Name": "Kara Elight",
+    "Ram": "Yellow",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 691
+  },
+  {
+    "Name": "Darago FlipX",
+    "Ram": "Black",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "850 mAh Battery",
+    "Price": 1589
+  },
+  {
+    "Name": "Kara K1",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 693
+  },
+  {
+    "Name": "Kara Passion",
+    "Ram": "Green",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 695
+  },
+  {
+    "Name": "BlackZone Jupiter",
+    "Ram": "Pink",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 619
+  },
+  {
+    "Name": "Ismart IS-205 Sleek",
+    "Ram": "Purple",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1020
+  },
+  {
+    "Name": "Ismart IS-100L-Selfie",
+    "Ram": "Choclate",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.08MP Rear Camera | 0.08MP Front Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 780
+  },
+  {
+    "Name": "Seniorworld Easyfone",
+    "Ram": "Black",
+    "Display": "2.2 inch HVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "700 mAh Battery",
+    "Price": 3375
+  },
+  {
+    "Name": "Ismart IS-205 Sleek",
+    "Ram": "Blue",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1020
+  },
+  {
+    "Name": "Kara K13",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1099
+  },
+  {
+    "Name": "Kara Passion",
+    "Ram": "Blue",
+    "Display": "1.77 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 691
+  },
+  {
+    "Name": "Kara Mega 2 (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 7099
+  },
+  {
+    "Name": "Kara K-11",
+    "Ram": "Black",
+    "Display": "2.8 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1319
+  },
+  {
+    "Name": "Kara K8",
+    "Ram": "BlackSilver",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 759
+  },
+  {
+    "Name": "Ismart IS-205 Sleek",
+    "Ram": "Gold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1020
+  },
+  {
+    "Name": "BlackZone Jupiter",
+    "Ram": "BlueLightBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 619
+  },
+  {
+    "Name": "Ismart 206 DJ",
+    "Ram": "CoffeeBlack",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Lava A97 4G with VoLTE (Black Gold, 8 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Ion Battery",
+    "Price": 6649
+  },
+  {
+    "Name": "Lava A76+ 4G with VoLTE (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "1850 mAh Li-Ion Battery",
+    "Price": 5219
+  },
+  {
+    "Name": "Lava A51 (Black, 8 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 3249
+  },
+  {
+    "Name": "Micromax 313",
+    "Ram": "256MBRAM",
+    "Display": "1.8 inch HVGA Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1299
+  },
+  {
+    "Name": "Micromax Micromax Canvas Blaze 4G+ (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 4880
+  },
+  {
+    "Name": "Lava A79 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Li-Ion Battery",
+    "Price": 4077
+  },
+  {
+    "Name": "Karbonn Titanium MachFive (Champagne, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8.0MP Rear Camera | 5.0MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 4690
+  },
+  {
+    "Name": "Videocon Krypton3 V50JG (GOLDEN BLUE, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 6998
+  },
+  {
+    "Name": "Lava Arc Magic+",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 929
+  },
+  {
+    "Name": "Lava Arc 12 Plus",
+    "Ram": "Black",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.8MP Rear Camera",
+    "Battery": "1000 mAh Li-Ion Battery",
+    "Price": 1279
+  },
+  {
+    "Name": "Lava A97 4G with VoLTE (Black Grey, 8 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2350 mAh Li-Ion Battery",
+    "Price": 6649
+  },
+  {
+    "Name": "Lava TRIO X/KKTTRIOX",
+    "Ram": "BlackBlue",
+    "Display": "1.8 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 1059
+  },
+  {
+    "Name": "Lava KKT 48",
+    "Ram": "BlackSilver",
+    "Display": "2.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2800 mAh Li-Polymer Battery",
+    "Price": 1595
+  },
+  {
+    "Name": "Lava A79 (Gold, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Li-Ion Battery",
+    "Price": 4077
+  },
+  {
+    "Name": "Ziox Z 23",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 849
+  },
+  {
+    "Name": "Ziox Z 23",
+    "Ram": "BlackRed",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 849
+  },
+  {
+    "Name": "Zen Admire Punch (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 3499
+  },
+  {
+    "Name": "Intex Aqua Amaze Plus (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4599
+  },
+  {
+    "Name": "Intex Aqua Amaze Plus (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch HD Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4599
+  },
+  {
+    "Name": "Lava KKT Star 2",
+    "Ram": "BlackYellow",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1800 mAh Li-Ion Battery",
+    "Price": 1359
+  },
+  {
+    "Name": "Intex Aqua Strong 5.1 Plus (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4989
+  },
+  {
+    "Name": "Lava Arc Magic+",
+    "Ram": "BlackBlue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 929
+  },
+  {
+    "Name": "Lava ARC Lite FM",
+    "Ram": "Blue",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Li-Ion Battery",
+    "Price": 939
+  },
+  {
+    "Name": "Panasonic P55 Novo (Champagne Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.3 inch Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 7985
+  },
+  {
+    "Name": "Forme D20",
+    "Ram": "RubienRed",
+    "Display": "1.44 inch Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "2280 mAh Battery",
+    "Price": 799
+  },
+  {
+    "Name": "Samsung Galaxy S7 Edge (Black Onyx, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Quad HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "3600 mAh Li-Ion Battery",
+    "Price": 50900
+  },
+  {
+    "Name": "LG K10 2017 (Gold & Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.3 inch HD Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2800 mAh Battery",
+    "Price": 13899
+  },
+  {
+    "Name": "LG K10 2017 (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.3 inch HD Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2800 mAh Battery",
+    "Price": 13299
+  },
+  {
+    "Name": "Forme D20",
+    "Ram": "Black",
+    "Display": "1.44 inch Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "2280 mAh Battery",
+    "Price": 799
+  },
+  {
+    "Name": "Lava A51 (Grey, 8 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "1750 mAh Li-Ion Battery",
+    "Price": 3249
+  },
+  {
+    "Name": "Samsung Galaxy S7 Edge (Gold Platinum, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.5 inch Quad HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "3600 mAh Li-Ion Battery",
+    "Price": 50900
+  },
+  {
+    "Name": "Apple iPhone 6s Plus (Silver, 16 GB)",
+    "Ram": "N/A",
+    "Display": "5.5 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2750 mAh Li-Ion Battery",
+    "Price": 46990
+  },
+  {
+    "Name": "Coolpad Mega 3 (Moondust Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 8MP Front Camera",
+    "Battery": "3050 mAh Li-Polymer Battery",
+    "Price": 7550
+  },
+  {
+    "Name": "Ismart IS-207 Klick",
+    "Ram": "ChampagneBlack",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.08MP Rear Camera | 0.08MP Front Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1110
+  },
+  {
+    "Name": "Philips Philips E103",
+    "Ram": "Black",
+    "Display": "1.77 inch Display",
+    "Camera": "1.2MP Rear Camera",
+    "Battery": "1050 mAh Battery",
+    "Price": 1175
+  },
+  {
+    "Name": "Intex Aqua View (White & Champange, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 7399
+  },
+  {
+    "Name": "Micromax Unite 2 A106 (Grey, 4 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.7 inch WVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6928
+  },
+  {
+    "Name": "Intex Aqua Slice (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "1650 mAh Li-Ion Battery",
+    "Price": 6400
+  },
+  {
+    "Name": "Intex Neo V Plus",
+    "Ram": "Black",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "1800 mAh Li-Ion Battery",
+    "Price": 949
+  },
+  {
+    "Name": "Micromax Q345 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2800 mAh Battery",
+    "Price": 5399
+  },
+  {
+    "Name": "Karbonn Titanium Machfive (Silver, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 4399
+  },
+  {
+    "Name": "Micromax Canvas Doodle 4 (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "6 inch quarter HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 5790
+  },
+  {
+    "Name": "HTC Desire 626G Plus (White Birch, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "2000 mAh Li-Polymer Battery",
+    "Price": 7999
+  },
+  {
+    "Name": "Micromax Canvas Doodle 2 A240 (Blue, 16 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.7 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2600 mAh Li-Ion Battery",
+    "Price": 5939
+  },
+  {
+    "Name": "Panasonic P71 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "16MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6500
+  },
+  {
+    "Name": "Lenovo K6 NOTE (Dark Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "4000 mAh Battery",
+    "Price": 13870
+  },
+  {
+    "Name": "Intex Eco Plus",
+    "Ram": "BlackGrey",
+    "Display": "4.5 cm QVGA Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 990
+  },
+  {
+    "Name": "Panasonic P55 Novo (Midnight Blue, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.3 inch HD Display",
+    "Camera": "3.2MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 7800
+  },
+  {
+    "Name": "Reach Cogent Colours (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 2599
+  },
+  {
+    "Name": "Panasonic P71 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6500
+  },
+  {
+    "Name": "Samsung Guru Music 2",
+    "Ram": "Black",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "16MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1760
+  },
+  {
+    "Name": "Lenovo K6 NOTE (Dark Grey, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "4000 mAh Battery",
+    "Price": 13870
+  },
+  {
+    "Name": "Intex Eco Plus",
+    "Ram": "BlackGrey",
+    "Display": "4.5 cm QVGA Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 990
+  },
+  {
+    "Name": "Panasonic P55 Novo (Midnight Blue, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.3 inch HD Display",
+    "Camera": "3.2MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 7800
+  },
+  {
+    "Name": "Reach Cogent Colours (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 2599
+  },
+  {
+    "Name": "Samsung Metro 313",
+    "Ram": "Black",
+    "Display": "2.03 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 2120
+  },
+  {
+    "Name": "Viaan V1.8",
+    "Ram": "White",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 644
+  },
+  {
+    "Name": "Viaan V181",
+    "Ram": "Black",
+    "Display": "1.8 inch Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 600
+  },
+  {
+    "Name": "Micromax Canvas Nitro 4G E455 (Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "2MP Rear Camera | 0MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 7150
+  },
+  {
+    "Name": "Samsung metro 350",
+    "Ram": "GreenishBlue",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 2845
+  },
+  {
+    "Name": "Micromax Canvas Play 4G Q469 Dual Sim - Moon Dust (Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2820 mAh Battery",
+    "Price": 7250
+  },
+  {
+    "Name": "Intex Aqua Power 4G (Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "3800 mAh Battery",
+    "Price": 6399
+  },
+  {
+    "Name": "Micromax q400 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 7226
+  },
+  {
+    "Name": "Panasonic P41 (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.58 inch quarter HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 4490
+  },
+  {
+    "Name": "XOLO Q2100 (White, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "16MP Rear Camera",
+    "Battery": "2800 mAh Li-Polymer Battery",
+    "Price": 8999
+  },
+  {
+    "Name": "Samsung Galaxy Note 5 Dual (Gold Platinum, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 35990
+  },
+  {
+    "Name": "Honor 8 Smart (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 13990
+  },
+  {
+    "Name": "XOLO Q600 (White, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 0.3MP Front Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 5890
+  },
+  {
+    "Name": "Lava A67 (Grey, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3749
+  },
+  {
+    "Name": "HTC 10 (carbon gray, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.2 inch Quad HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 38849
+  },
+  {
+    "Name": "Apple iPhone 6s (Silver, 128 GB)",
+    "Ram": "N/A",
+    "Display": "4.7 inch Retina HD Display",
+    "Camera": "12MP Rear Camera | 5MP Front Camera",
+    "Battery": "1715 mAh Li-Ion Battery",
+    "Price": 54999
+  },
+  {
+    "Name": "Asus Zenfone 6 (Gold, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "6 inch HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "3230 mAh Lithium Battery",
+    "Price": 9850
+  },
+  {
+    "Name": "Asus Zenfone 6 (Deep Black, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "6 inch HD Display",
+    "Camera": "13MP Rear Camera | 2MP Front Camera",
+    "Battery": "3230 mAh Lithium Battery",
+    "Price": 9850
+  },
+  {
+    "Name": "Samsung Guru FM Plus",
+    "Ram": "Black",
+    "Display": "1.5 inch Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1490
+  },
+  {
+    "Name": "Karbonn K9",
+    "Ram": "BlackAndRed",
+    "Display": "2.6 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 1285
+  },
+  {
+    "Name": "Micromax Canvas Blaze 4G+ (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "1750 mAh Battery",
+    "Price": 4850
+  },
+  {
+    "Name": "Intex Cloud Crystal 2.5D (Black, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 7699
+  },
+  {
+    "Name": "Samsung Guru Music 2",
+    "Ram": "Black",
+    "Display": "2.4 inch NA Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1760
+  },
+  {
+    "Name": "Intex Flash K5",
+    "Ram": "BlackSilver",
+    "Display": "2.4 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "1450 mAh Battery",
+    "Price": 1599
+  },
+  {
+    "Name": "Micromax Unite 4 (Silver, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Li-Polymer Battery",
+    "Price": 6330
+  },
+  {
+    "Name": "Intex Aqua Star II HD (Champagne, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 5999
+  },
+  {
+    "Name": "Intex ECO",
+    "Ram": "BLACKRED",
+    "Display": "1.8 inch Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "1800 mAh Battery",
+    "Price": 948
+  },
+  {
+    "Name": "Vivo X5 (White, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.2 inch HD Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "2450 mAh Battery",
+    "Price": 18990
+  },
+  {
+    "Name": "Lava A82 (Gold/GoldM, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "5MP Rear Camera | 2MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 3740
+  },
+  {
+    "Name": "Samsung Galaxy Note 5 (Dual Sim) (Gold Platinum, 32 GB)",
+    "Ram": "4GBRAM",
+    "Display": "5.7 inch Quad HD Display",
+    "Camera": "16MP Rear Camera | 5MP Front Camera",
+    "Battery": "3000 mAh Li-Polymer Battery",
+    "Price": 37690
+  },
+  {
+    "Name": "Micromax GC313 WHITE GSM+CDMA",
+    "Ram": "White",
+    "Display": "1.8 inch QVGA Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 1199
+  },
+  {
+    "Name": "Samsung Galaxy J7 Prime (Gold, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5.5 inch Full HD Display",
+    "Camera": "13MP Rear Camera | 8MP Front Camera",
+    "Battery": "3300 mAh Battery",
+    "Price": 15490
+  },
+  {
+    "Name": "Micromax Q346 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "1700 mAh Battery",
+    "Price": 3339
+  },
+  {
+    "Name": "Micromax Canvas Selfie 4 Q349 (Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 5048
+  },
+  {
+    "Name": "Micromax Canvas 5 Lite (Slate Grey, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 6140
+  },
+  {
+    "Name": "Micromax Canvas Selfie 4 Q349 (Silver, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch Display",
+    "Camera": "8MP Rear Camera | 5MP Front Camera",
+    "Battery": "2500 mAh Battery",
+    "Price": 4550
+  },
+  {
+    "Name": "Intex Cloud Tread (Champagne, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "5MP Rear Camera | 5MP Front Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 5199
+  },
+  {
+    "Name": "Micromax CG666",
+    "Ram": "BlackGrey",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1700 mAh Battery",
+    "Price": 1199
+  },
+  {
+    "Name": "Panasonic Eluga A (Black, 4 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch FWVGA Display",
+    "Camera": "8MP Rear Camera | 1.3MP Front Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 6524
+  },
+  {
+    "Name": "Intex Aqua Super (Grey, 16 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "2150 mAh Battery",
+    "Price": 8499
+  },
+  {
+    "Name": "Samsung Metro Sm-B313ez",
+    "Ram": "Black",
+    "Display": "2 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 2099
+  },
+  {
+    "Name": "HTC ONE A9 (Carbon Gray, 32 GB)",
+    "Ram": "3GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "2150 mAh Battery",
+    "Price": 24949
+  },
+  {
+    "Name": "Asus Zenfone Go (Grey, 32 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5.5 inch Display",
+    "Camera": "13MP Rear Camera",
+    "Battery": "3010 mAh Battery",
+    "Price": 9950
+  },
+  {
+    "Name": "Samsung Sm-B110E/D",
+    "Ram": "Black",
+    "Display": "1.5 inch Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1499
+  },
+  {
+    "Name": "Intex Aqua Pro 4G (Dark Blue, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.5 inch Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "2000 mAh Battery",
+    "Price": 5499
+  },
+  {
+    "Name": "Samsung Guru E1200/Guru 1200",
+    "Ram": "Black",
+    "Display": "1.5 inch NA Display",
+    "Camera": "0MP Rear Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 1270
+  },
+  {
+    "Name": "Reach Cogent Max",
+    "Ram": "BlackRed",
+    "Display": "2.4 inch Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 999
+  },
+  {
+    "Name": "Reach Cogent Max",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "1 Year for Handset, 6 months for Battery,Charger.",
+    "Price": 999
+  },
+  {
+    "Name": "Darago X5i",
+    "Ram": "Black",
+    "Display": "2.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2200 mAh Battery",
+    "Price": 1129
+  },
+  {
+    "Name": "JIVI N3",
+    "Ram": "BlackGrey",
+    "Display": "2.4 inch NA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1 Year for Handset, 6 months for Battery,Charger",
+    "Price": 1199
+  },
+  {
+    "Name": "JIVI N3000",
+    "Ram": "Gold",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 1549
+  },
+  {
+    "Name": "Micromax X606",
+    "Ram": "Grey",
+    "Display": "2.2 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 1599
+  },
+  {
+    "Name": "Iball Class X 1 GB (Special Grey, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "4.064 inch WVGA Display",
+    "Camera": "5MP Rear Camera",
+    "Battery": "2800 mAh Battery",
+    "Price": 3099
+  },
+  {
+    "Name": "Micromax Bolt Supreme (Black, 4 GB)",
+    "Ram": "512MBRAM",
+    "Display": "4 inch Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1000 mAh Battery",
+    "Price": 2999
+  },
+  {
+    "Name": "Iball Andi 5Q Cobalt Solus (Black & Silver, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "1400 mAh Battery",
+    "Price": 6499
+  },
+  {
+    "Name": "Iball Andi4 -B20 (Black+silver, 512 MB)",
+    "Ram": "256MBRAM",
+    "Display": "4 inch WVGA Display",
+    "Camera": "2MP Rear Camera",
+    "Battery": "1200 mAh Battery",
+    "Price": 2499
+  },
+  {
+    "Name": "JIVI N9003",
+    "Ram": "White",
+    "Display": "2.4 inch QVGA Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2250 mAh LI-PO Battery",
+    "Price": 1249
+  },
+  {
+    "Name": "JIVI N3",
+    "Ram": "BlackGold",
+    "Display": "2.4 inch NA Display",
+    "Camera": "0.03MP Rear Camera",
+    "Battery": "1250 mAh Battery",
+    "Price": 1249
+  },
+  {
+    "Name": "BlackZone UNI",
+    "Ram": "BlueSkyblue",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "3000 mAh Battery",
+    "Price": 617
+  },
+  {
+    "Name": "Reach Hexa 551 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5.5 inch HD Display",
+    "Camera": "8MP Rear Camera | 3.2MP Front Camera",
+    "Battery": "1500 mAh Battery",
+    "Price": 3999
+  },
+  {
+    "Name": "Panasonic P41 (Black, 8 GB)",
+    "Ram": "1GBRAM",
+    "Display": "5 inch quarter HD Display",
+    "Camera": "8MP Rear Camera | 2MP Front Camera",
+    "Battery": "800 mAh Battery",
+    "Price": 5499
+  },
+  {
+    "Name": "Micromax Canvas Nitro 2 (Grey & Silver, 16 GB)",
+    "Ram": "2GBRAM",
+    "Display": "5 inch HD Display",
+    "Camera": "13MP Rear Camera | 5MP Front Camera",
+    "Battery": "2600 mAh Battery",
+    "Price": 7225
+  },
+  {
+    "Name": "Iball 2.4L",
+    "Ram": "Black",
+    "Display": "2.4 inch Display",
+    "Camera": "1.3MP Rear Camera",
+    "Battery": "2000 mAh Li-Ion Battery",
+    "Price": 1299
+  },
+  {
+    "Name": "BlackZone Neo",
+    "Ram": "PinkTropicalPinkBlack",
+    "Display": "1.8 inch Display",
+    "Camera": "0.3MP Rear Camera",
+    "Battery": "2400 mAh Li-Ion Battery",
+    "Price": 616
+  }
+]
+}

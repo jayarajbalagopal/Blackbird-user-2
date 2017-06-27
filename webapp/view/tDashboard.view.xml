@@ -1,0 +1,15 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:core="sap.ui.core"
+	controllerName="bbuserBlackbird_user_v1.controller.tDashboard" xmlns:l="sap.ui.layout" xmlns="sap.m" xmlns:tnt="sap.tnt">
+	<Page showHeader="false">
+		<l:DynamicSideContent class="Main_Content">
+			<l:mainContent>
+				<Image src="view/telecom4.jpg" class="Dashboard_Image"/>
+			</l:mainContent>
+			<l:sideContent class="Dynamic_Side_Content">
+				<List headerText="News" items="{/data}" class="Feed_News">
+					<FeedListItem sender="{author}" text="{title}" timestamp="{time}" class="News_Feed"/>
+				</List>
+			</l:sideContent>
+		</l:DynamicSideContent>
+	</Page>
+</mvc:View>

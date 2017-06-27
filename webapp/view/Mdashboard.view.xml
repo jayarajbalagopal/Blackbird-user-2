@@ -1,0 +1,116 @@
+<mvc:View controllerName="bbuserBlackbird_user_v1.controller.Mobile" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:tnt="sap.tnt" xmlns:u="sap.ui.unified" xmlns:l="sap.ui.layout"
+	class="fullHeight">
+	<Page showHeader="false">
+		<content>
+			<tnt:ToolHeader class="Header_Bar">
+				<Image src="/webapp/image/blackbird_logo.png" press="onMenuClick"/>
+				<ToolbarSpacer/>
+				<Text text="Mobile Section" class="Header_Text"/>
+				<ToolbarSpacer/>
+				<core:Icon src="sap-icon://wrench" class="sapUiSmallMargin Header_Icon" press="OndomainChange"/>
+				<core:Icon src="sap-icon://person-placeholder" class="sapUiSmallMargin Header_Icon" press="onLogout"/>
+			</tnt:ToolHeader>
+			<SplitApp id="SplitAppDemo" initialMaster="master">
+				<detailPages>
+					<Page showHeader="false">
+						<List id="myList" items="{details>/Details}" headerText="Products">
+							<items>
+								<ObjectListItem title="{details>Name}" number="{details>Price}" numberUnit="Rs" id="price">
+									<attributes>
+										<ObjectAttribute text="Display : {details>Display}"/>
+										<ObjectAttribute text="Rear Camera (pixel) : {details>Camera}"/>
+										<ObjectAttribute text="Battery : {details>Battery}"/>
+										<ObjectAttribute text="RAM : {details>Ram}"/>
+									</attributes>
+								</ObjectListItem>
+							</items>
+						</List>
+					</Page>
+				</detailPages>
+				<masterPages>
+					<Page id="master" showHeader="false">
+						<content >
+							<Panel expandable="true" expanded="true" headerText="Price Range" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox text="Above 15,000" id="idP1" select="OnSelectCheckbox"/>
+										<CheckBox text="Rs.10,000 - Rs.15,000" id="idP2" select="OnSelectCheckbox"/>
+										<CheckBox text="Rs.5,000 - Rs.10,000" id="idP3" select="OnSelectCheckbox"/>
+										<CheckBox text="Below Rs.5,000" id="idP4" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+							<Panel expandable="true" expanded="true" headerText="Display" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox text="Above 6 inch" id="s1" select="OnSelectCheckbox"/>
+										<CheckBox text="5.5 inch" id="s2" select="OnSelectCheckbox"/>
+										<CheckBox text="4-5.5 inch" id="s3" select="OnSelectCheckbox"/>
+										<CheckBox text="Below 4" id="s4" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+							<Panel expandable="true" expanded="true" headerText="RAM" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox text="4 GB" id="Ram4" select="OnSelectCheckbox"/>
+										<CheckBox text="3 GB" id="Ram3" select="OnSelectCheckbox"/>
+										<CheckBox text="2 GB" id="Ram2" select="OnSelectCheckbox"/>
+										<CheckBox text="Below 1 GB" id="Ram1" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+							<Panel expandable="true" expanded="true" headerText="Camera(pixel)" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox text="20 MP" id="MP20" select="OnSelectCheckbox"/>
+										<CheckBox text="13 MP" id="MP13" select="OnSelectCheckbox"/>
+										<CheckBox text="12 MP" id="MP12" select="OnSelectCheckbox"/>
+										<CheckBox text="8 MP" id="MP8" select="OnSelectCheckbox"/>
+										<CheckBox text="5 MP" id="MP5" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+							<Panel expandable="true" expanded="true" headerText="Brand" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox id="idB1" text="Apple" select="OnSelectCheckbox"/>
+										<CheckBox id="idB2" text="Asus" select="OnSelectCheckbox"/>
+										<CheckBox id="idB3" text="Coolpad" select="OnSelectCheckbox"/>
+										<CheckBox id="idB4" text="LeEco" select="OnSelectCheckbox"/>
+										<CheckBox id="idB5" text="Lenovo" select="OnSelectCheckbox"/>
+										<CheckBox id="idB6" text="LYF" select="OnSelectCheckbox"/>
+										<CheckBox id="idB7" text="Micromax" select="OnSelectCheckbox"/>
+										<CheckBox id="idB8" text="Moto" select="OnSelectCheckbox"/>
+										<CheckBox id="idB9" text="Nokia" select="OnSelectCheckbox"/>
+										<CheckBox id="idB10" text="OPPO" select="OnSelectCheckbox"/>
+										<CheckBox id="idB11" text="Panasonic" select="OnSelectCheckbox"/>
+										<CheckBox id="idB12" text="Redmi" select="OnSelectCheckbox"/>
+										<CheckBox id="idB13" text="Samsung" select="OnSelectCheckbox"/>
+										<CheckBox id="idB14" text="Sansui" select="OnSelectCheckbox"/>
+										<CheckBox id="idB15" text="Swipe" select="OnSelectCheckbox"/>
+										<CheckBox id="idB16" text="Vivo" select="OnSelectCheckbox"/>
+										<CheckBox id="idB17" text="XOLO" select="OnSelectCheckbox"/>
+										<CheckBox id="idB18" text="Yu" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+							<Panel expandable="true" expanded="true" headerText="Battery Backup" width="auto" class="sapUiResponsiveMargin">
+								<content>
+									<VBox>
+										<CheckBox text="Above 4000Mah" id="b1" select="OnSelectCheckbox"/>
+										<CheckBox text="Above 3000Mah" id="b2" select="OnSelectCheckbox"/>
+										<CheckBox text="Above 2000Mah" id="b3" select="OnSelectCheckbox"/>
+										<CheckBox text="Below 2000Mah" id="b4" select="OnSelectCheckbox"/>
+									</VBox>
+								</content>
+							</Panel>
+						</content>
+					</Page>
+				</masterPages>
+			</SplitApp>
+			<Text text=" "/>
+		</content>
+	</Page>
+</mvc:View>

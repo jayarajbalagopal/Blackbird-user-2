@@ -1,0 +1,177 @@
+<mvc:View xmlns="sap.m" xmlns:viz="sap.viz.ui5.controls" xmlns:layout="sap.ui.layout"
+	controllerName="bbuserBlackbird_user_v1.controller.tUser" xmlns:mvc="sap.ui.core.mvc" xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds"
+	xmlns:viz.data="sap.viz.ui5.data" height="100%">
+	<Page showHeader="false">
+		<viz:VizFrame id="idVizFrame1" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'National Data', visible : true}}"
+			 width="auto" vizType='column' visible="true" selectData="selectData">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/user}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Region" value="{Region}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Idea" value="{Idea}"/>
+						<viz.data:MeasureDefinition name="Reliance" value="{Reliance}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed' uid="valueAxis" type="Measure" values="Idea,Reliance"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed' uid="categoryAxis" type="Dimension" values="Region"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopover1"></viz:Popover>
+		<viz:VizFrame id="ideaNorth" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Idea - North', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Idea/North}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed1' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed1' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoveriN"></viz:Popover>
+		<viz:VizFrame id="ideaSouth" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Idea - South', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Idea/South}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed2' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed2' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoveriS"></viz:Popover>
+		<viz:VizFrame id="ideaEast" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Idea - East', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Idea/East}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed3' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed3' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoveriE"></viz:Popover>
+		<viz:VizFrame id="ideaWest" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Idea - West', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Idea/West}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed4' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed4' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoveriW"></viz:Popover>
+		<viz:VizFrame id="RelianceNorth" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Reliance - North', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Reliance/North}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed5' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed5' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoverRN"></viz:Popover>
+		<viz:VizFrame id="RelianceSouth" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Reliance - South', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Reliance/South}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed6' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed6' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoverRS"></viz:Popover>
+		<viz:VizFrame id="RelianceEast" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Reliance - East', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Reliance/East}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed7' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed7' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoverRE"></viz:Popover>
+		<viz:VizFrame id="RelianceWest" uiConfig="{applicationSet:'fiori'}" vizProperties="{ title: {text : 'Reliance - West', visible : true}}"
+			height='80%' width="auto" vizType='bar' visible="true">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/Reliance/West}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Subregion" value="{Name}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Call Log" value="{CallLog}"/>
+						<viz.data:MeasureDefinition name="Data" value="{Data}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed8' uid="valueAxis" type="Measure" values="Call Log,Data"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed8' uid="categoryAxis" type="Dimension" values="Subregion"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoverRW"></viz:Popover>
+	</Page>
+</mvc:View>

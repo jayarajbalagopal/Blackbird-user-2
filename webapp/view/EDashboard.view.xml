@@ -1,0 +1,32 @@
+<mvc:View controllerName="bbuserBlackbird_user_v1.controller.Energy" xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+	xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:tnt="sap.tnt" xmlns:u="sap.ui.unified" xmlns:l="sap.ui.layout" class="fullHeight">
+		<tnt:ToolHeader class="Header_Bar">
+				<Image src="/webapp/image/blackbird_logo.png" press="onMenuClick"/>
+				<ToolbarSpacer/>
+				<Text text="Energy Section" class="Header_Text"/>
+				<ToolbarSpacer/>
+				<core:Icon src="sap-icon://wrench" class="sapUiSmallMargin Header_Icon" press="OndomainChange"/>
+				<Link text="Compare" press="onSelect" class="Header_Compare_Text"/>
+				<core:Icon src="sap-icon://person-placeholder" class="sapUiSmallMargin Header_Icon" press="onLogout"/>
+		</tnt:ToolHeader>
+		<SplitApp id="SplitAppDemo" initialDetail="edashboard" initialMaster="master" class="Master_LeftSide">
+			<detailPages>
+				<mvc:XMLView viewName="bbuserBlackbird_user_v1.view.eDashboard" id="edashboard"></mvc:XMLView>
+				<mvc:XMLView viewName="bbuserBlackbird_user_v1.view.eStockmarket" id="estock"></mvc:XMLView>
+				<mvc:XMLView viewName="bbuserBlackbird_user_v1.view.eConsumption" id="econsum"></mvc:XMLView>
+			</detailPages>
+			<masterPages>
+				<Page id="master" showHeader="false" class="Side_Navigation">
+					<content>
+						<List>
+							<items>
+								<StandardListItem title="DashBoard" icon="sap-icon://bbyd-dashboard" type="Active" press="onPressDashboard" class="Side_Navigation_Icon Side_Navigation_Text"/>
+								<StandardListItem title="Stock Market" icon="sap-icon://opportunity" type="Active" press="onPressStock"  class="Side_Navigation_Icon Side_Navigation_Text"/>
+								<StandardListItem title="Consumption" icon="sap-icon://example" type="Active" press="onPressConsumption"  class="Side_Navigation_Icon Side_Navigation_Text"/>
+							</items>
+						</List>
+					</content>
+				</Page>
+			</masterPages>
+		</SplitApp>
+</mvc:View>

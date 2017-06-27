@@ -1,0 +1,78 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns:core="sap.ui.core"
+	xmlns:table="sap.ui.table" xmlns:viz="sap.viz.ui5.controls" xmlns="sap.m" xmlns:tnt="sap.tnt"
+	controllerName="bbuserBlackbird_user_v1.controller.eStockmarket" id="eStockmarket">
+	<Page showHeader="true">
+		<headerContent>
+			<Button icon="sap-icon://table-view" tooltip="Share" press="changetotableviewfn"/>
+		</headerContent>
+		<content>
+			<HBox class="scenter">
+				<RadioButton id="radio1" groupName="GroupA" text="Open Price" select="ofn" selected="true"/>
+				<RadioButton id="radio2" groupName="GroupA" text="High Price" select="hfn"/>
+				<RadioButton id="radio3" groupName="GroupA" text="Low Price" select="lfn"/>
+			</HBox>
+		
+			
+			<viz:VizFrame vizProperties="{ title: {text : 'Stock Rate', visible : true}}" xmlns="sap.viz" id="idcolumn" width="100%"
+				class="sapUiLargeMarginBottom" selectData="myfn"/>
+			<table:Table id="Tableo" rows="{/}" visibleRowCount="5" selectionMode="None">
+				<table:title></table:title>
+				<table:columns>
+					<table:Column sortProperty="Company" filterProperty="Company">
+						<Label text="Company"/>
+						<table:template>
+							<Text text="{Company}"/>
+						</table:template>
+					</table:Column>
+					<table:Column sortProperty="Open" filterProperty="Open">
+						<Label text="Stock Open Rate"/>
+						<table:template>
+							<Text text="{Open}"/>
+						</table:template>
+					</table:Column>
+				</table:columns>
+			</table:Table>
+			<table:Table id="Tablel" rows="{/}" visibleRowCount="5" selectionMode="None">
+				<table:title></table:title>
+				<table:columns>
+					<table:Column sortProperty="Company" filterProperty="Company">
+						<Label text="Company"/>
+						<table:template>
+							<Text text="{Company}"/>
+						</table:template>
+					</table:Column>
+					<table:Column sortProperty="Low" filterProperty="Low">
+						<Label text="Stock Low Rate"/>
+						<table:template>
+							<Text text="{Low}"/>
+						</table:template>
+					</table:Column>
+				</table:columns>
+			</table:Table>
+			<table:Table id="Tableh" rows="{/}" visibleRowCount="5" selectionMode="None">
+				<table:title></table:title>
+				<table:columns>
+					<table:Column sortProperty="Company" filterProperty="Company">
+						<Label text="Company"/>
+						<table:template>
+							<Text text="{Company}"/>
+						</table:template>
+					</table:Column>
+					<table:Column sortProperty="High" filterProperty="High">
+						<Label text="Stock High Rate"/>
+						<table:template>
+							<Text text="{High}"/>
+						</table:template>
+					</table:Column>
+				</table:columns>
+			</table:Table>
+			<HBox class="scenter">
+				<Input id="country" placeholder="Company" enabled="true" editable="true" showValueHelp="true" valueHelpOnly="true"
+					valueHelpRequest="onValueHelpRequest" liveChange="frameviz" />
+				<DatePicker id="DP1" placeholder="Jan 1,2017" change="handleChange" class="sapUiSmallMarginBottom sapUiLargeMarginEnd" />
+				<DatePicker id="DP2" placeholder="Dec 31,2017" change="frameviz" class="sapUiSmallMarginBottom sapUiLargeMarginBegin"/>
+			</HBox>
+			<viz:VizFrame vizProperties="{ title: {text : 'Adani Power', visible : true}}" xmlns="sap.viz" id="chart2" width="100%"/>
+		</content>
+	</Page>
+</mvc:View>

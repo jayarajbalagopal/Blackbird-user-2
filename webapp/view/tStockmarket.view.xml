@@ -1,0 +1,189 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns="sap.m" xmlns:t="sap.ui.table" xmlns:uicom="sap.suite.ui.commons"
+	xmlns:viz="sap.viz.ui5.controls" xmlns:core="sap.ui.core" xmlns:layout="sap.ui.layout" xmlns:mvc="sap.ui.core.mvc"
+	xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds" xmlns:viz.data="sap.viz.ui5.data"
+	controllerName="bbuserBlackbird_user_v1.controller.tStockmarket">
+	<Page showHeader="false">
+		<viz:VizFrame id="idMainGraph" vizType="column" vizProperties="{ title: {text : 'Comparison Chart', visible : true}}"
+			uiConfig="{applicationSet:'fiori'}" class="sapUiMediumMargin" height="400px" width="auto" selectData="selectData">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/companies}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Company" value="{Company}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Turnover" value="{Turnover}"/>
+						<viz.data:MeasureDefinition name="Total_Trade_Quantity" value="{Total_Trade_Quantity}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed1' uid="valueAxis" type="Measure" values="Total_Trade_Quantity"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed1' uid="categoryAxis" type="Dimension" values="Company"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<Toolbar id="toolbarI">
+			<RadioButtonGroup id='seriesRadioGroup' buttons="{/options/values}" columns="4">
+				<buttons>
+					<RadioButton class='settingsRadio' text="{name}" select='onSeriesSelected'/>
+				</buttons>
+			</RadioButtonGroup>
+			<ToolbarSpacer/>
+			<ToggleButton icon="sap-icon://table-view" enabled="true" pressed="false" press="onPress"/>
+		</Toolbar>
+		<Toolbar id="toolbarR">
+			<RadioButtonGroup id='seriesRadioGroupR' buttons="{/options/values}" columns="4">
+				<buttons>
+					<RadioButton class='settingsRadio' text="{name}" select='onSeriesSelectedR'/>
+				</buttons>
+			</RadioButtonGroup>
+			<ToolbarSpacer/>
+			<ToggleButton icon="sap-icon://table-view" enabled="true" pressed="false" press="onPressR"/>
+		</Toolbar>
+		<viz:VizFrame id="idVizFrame" vizType="line" vizProperties="{ title: {text : 'Stock Market Rates - Idea', visible : true}}"
+			uiConfig="{applicationSet:'fiori'}" class="sapUiMediumMargin" height="400px" width="auto">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/idea}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Date" value="{Date}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Open" value="{Open}"/>
+						<viz.data:MeasureDefinition name="Close" value="{Close}"/>
+						<viz.data:MeasureDefinition name="Low" value="{Low}"/>
+						<viz.data:MeasureDefinition name="High" value="{High}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeed' uid="valueAxis" type="Measure" values="Open"/>
+				<viz.feeds:FeedItem id='categoryAxisFeed' uid="categoryAxis" type="Dimension" values="Date"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopover"></viz:Popover>
+		<viz:VizFrame id="idVizReliance" vizType="line" vizProperties="{ title: {text : 'Stock Market Rates - Reliance', visible : true}}"
+			uiConfig="{applicationSet:'fiori'}" class="sapUiMediumMargin" height="400px" width="auto">
+			<viz:dataset>
+				<viz.data:FlattenedDataset data="{/reliance}">
+					<viz.data:dimensions>
+						<viz.data:DimensionDefinition name="Date" value="{Date}"/>
+					</viz.data:dimensions>
+					<viz.data:measures>
+						<viz.data:MeasureDefinition name="Open" value="{Open}"/>
+						<viz.data:MeasureDefinition name="Close" value="{Close}"/>
+						<viz.data:MeasureDefinition name="Low" value="{Low}"/>
+						<viz.data:MeasureDefinition name="High" value="{High}"/>
+					</viz.data:measures>
+				</viz.data:FlattenedDataset>
+			</viz:dataset>
+			<viz:feeds>
+				<viz.feeds:FeedItem id='valueAxisFeedR' uid="valueAxis" type="Measure" values="Open"/>
+				<viz.feeds:FeedItem id='categoryAxisFeedR' uid="categoryAxis" type="Dimension" values="Date"/>
+			</viz:feeds>
+		</viz:VizFrame>
+		<viz:Popover id="vizPopoverReliance"></viz:Popover>
+		<t:Table id="myTable" rows="{/idea}" title="" selectionMode="MultiToggle">
+			<t:columns>
+				<t:Column width="100%">
+					<Label text="Date"/>
+					<t:template>
+						<Text text="{Date}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Open"/>
+					<t:template>
+						<Text text="{Open}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="High"/>
+					<t:template>
+						<Text text="{High}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Low"/>
+					<t:template>
+						<Text text="{Low}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Last"/>
+					<t:template>
+						<Text text="{Last}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Close"/>
+					<t:template>
+						<Text text="{Close}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Total Trade Quantity"/>
+					<t:template>
+						<Text text="{Total_Trade_Quantity}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Turnover"/>
+					<t:template>
+						<Text text="{Turnover}"/>
+					</t:template>
+				</t:Column>
+			</t:columns>
+		</t:Table>
+		<t:Table id="myTableR" rows="{/reliance}" title="" selectionMode="MultiToggle">
+			<t:columns>
+				<t:Column width="100%">
+					<Label text="Date"/>
+					<t:template>
+						<Text text="{Date}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Open"/>
+					<t:template>
+						<Text text="{Open}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="High"/>
+					<t:template>
+						<Text text="{High}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Low"/>
+					<t:template>
+						<Text text="{Low}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Last"/>
+					<t:template>
+						<Text text="{Last}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Close"/>
+					<t:template>
+						<Text text="{Close}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Total Trade Quantity"/>
+					<t:template>
+						<Text text="{Total_Trade_Quantity}"/>
+					</t:template>
+				</t:Column>
+				<t:Column width="100%">
+					<Label text="Turnover"/>
+					<t:template>
+						<Text text="{Turnover}"/>
+					</t:template>
+				</t:Column>
+			</t:columns>
+		</t:Table>
+	</Page>
+</mvc:View>

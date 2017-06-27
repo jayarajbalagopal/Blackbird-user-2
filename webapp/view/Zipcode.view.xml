@@ -1,0 +1,34 @@
+<mvc:View controllerName="bbuserBlackbird_user_v1.controller.zipcode" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:tnt="sap.tnt" xmlns:u="sap.ui.unified" xmlns:l="sap.ui.layout"
+	class="fullHeight">
+	<Page>
+		<headerContent>
+			<Toolbar class="Header_Bar">
+				<Image src="/webapp/image/blackbird_logo.png" press="onMenuClick"/>
+				<ToolbarSpacer/>
+				<Text text="Zipcode" class="Header_Text"/>
+				<ToolbarSpacer/>
+				<core:Icon src="sap-icon://wrench" class="sapUiSmallMargin Header_Icon" press="OndomainChange"/>
+				<Link text="Compare" press="onSelect" class="Header_Compare_Text"/>
+				<core:Icon src="sap-icon://person-placeholder" class="sapUiSmallMargin Header_Icon" press="onLogout"/>
+				<!--<Text text="{/name}"></Text>-->
+			</Toolbar>
+		</headerContent>
+		<SplitApp id="SplitAppDemo" initialDetail="zip" initialMaster="master" class="Master_LeftSide">
+			<detailPages>
+				<mvc:XMLView viewName="bbuserBlackbird_user_v1.view.zip" id="zip"></mvc:XMLView>
+			</detailPages>
+			<masterPages>
+				<Page id="master" showHeader="false" class="Side_Navigation">
+					<content>
+						<List>
+							<items>
+								<StandardListItem title="zip" class="Side_Navigation_Icon Side_Navigation_Text" icon="sap-icon://bbyd-dashboard" type="Active" press="onPressDashboard"/>
+							</items>
+						</List>
+					</content>
+				</Page>
+			</masterPages>
+		</SplitApp>
+</Page>
+</mvc:View>

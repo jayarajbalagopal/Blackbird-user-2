@@ -1,0 +1,23 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout" xmlns:f="sap.ui.layout.form"
+	controllerName="bbuserBlackbird_user_v1.controller.Home">
+	<Dialog showHeader="false">
+		<VBox class="sapUiSmallMargin">
+			<f:SimpleForm id="SimpleFormToolbar" editable="true" layout="ResponsiveGridLayout">
+				<l:VerticalLayout class="sapUiContentPadding" width="75%">
+					<l:content></l:content>
+					<l:content>
+						<Label text="Email Address"/>
+						<Input type="Email" placeholder="" id="email1"/>
+					</l:content>
+					<l:content>
+						<Label text="Password"/>
+						<Input type="Password" placeholder="" id="password1"/>
+					</l:content>
+					<l:content>
+						<Button text="Login" press="login"/>
+					</l:content>
+				</l:VerticalLayout>
+			</f:SimpleForm>
+		</VBox>
+	</Dialog>
+</core:FragmentDefinition>

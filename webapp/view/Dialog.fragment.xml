@@ -1,0 +1,6 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" controllerName="bbuserBlackbird_user_v1.controller.eStockmarket">
+    <SelectDialog title="COMPANY" cancel="handleClose" confirm="handleClose" id="select" items="{/cmpl}" search="handleSearch">
+        <StandardListItem title="{Company}"></StandardListItem>
+        
+   </SelectDialog>
+</core:FragmentDefinition>

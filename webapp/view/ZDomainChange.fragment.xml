@@ -1,0 +1,23 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" controllerName="bbuserBlackbird_user_v1.controller.zipcode">
+     <Dialog  title="Select Domain">
+    
+        	<content>
+						
+						<Select change="onPress" forceSelection="false"   width="100%">
+							<core:Item key="" text="Energy" />
+							<core:Item key="" text="Telecommunication" />
+							<core:Item key="" text="Zip Code based Info" />
+							<core:Item key="" text="Mobile"  />
+							
+						</Select>
+						
+					</content>
+					<beginButton>
+			<Button text="Change Domain" type="Accept" press="onConfirm"/>
+		</beginButton>
+		<endButton>
+			<Button text="cancel" press="onCancel"/>
+		</endButton>
+					
+    </Dialog>
+</core:FragmentDefinition>
